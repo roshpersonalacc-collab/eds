@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1-PdLy4joUw5lbdzf_PkIDZQS_4TFFaOl
+  /: 
+  url:"https://author-p135369-e1615158.adobeaemcloud.com/bin/franklin.delivery/roshpersonalacc-collab/eds/main"
+  type:"markup"
+  suffix:".html"
